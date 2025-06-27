@@ -1,4 +1,4 @@
-# 📊 Organizador IRPF – Receitas e Despesas Dedutíveis
+# 📊 Organizador IRPF – Receitas e Despesas Dedutíveis (PROJETO)
 
 Um projeto para te ajudar a organizar **informes de rendimento**, **receitas** e **despesas dedutíveis** ao longo do ano – e evitar a famosa maratona de última hora no Imposto de Renda.
 
